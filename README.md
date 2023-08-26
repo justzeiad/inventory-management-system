@@ -39,7 +39,7 @@ display a list of all products, and manage inventory information efficiently.
   Follow the on-screen prompts to interact with the inventory management system.
 
 ## Screenshot
-![Usage Screenshot]()
+![Usage Screenshot](/screenshot/Screenshot.png)
   
 ## Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
